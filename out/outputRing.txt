@@ -1,0 +1,60 @@
+Check if exists: For 500 vertices found: 0 milliseconds.
+Check if exists: For 1000 vertices found: 1 milliseconds.
+Check if exists: For 1500 vertices found: 3 milliseconds.
+Check if exists: For 2000 vertices found: 6 milliseconds.
+Check if exists: For 2500 vertices found: 10 milliseconds.
+Check if exists: For 3000 vertices found: 12 milliseconds.
+Check if exists: For 3500 vertices found: 19 milliseconds.
+Check if exists: For 4000 vertices found: 25 milliseconds.
+Check if exists: For 4500 vertices found: 27 milliseconds.
+Check if exists: For 5000 vertices found: 33 milliseconds.
+Check if exists: For 5500 vertices found: 47 milliseconds.
+Check if exists: For 6000 vertices found: 49 milliseconds.
+Check if exists: For 6500 vertices found: 56 milliseconds.
+Check if exists: For 7000 vertices found: 64 milliseconds.
+Check if exists: For 7500 vertices found: 73 milliseconds.
+Check if exists: For 8000 vertices found: 85 milliseconds.
+Check if exists: For 8500 vertices found: 101 milliseconds.
+Check if exists: For 9000 vertices found: 110 milliseconds.
+Check if exists: For 9500 vertices found: 121 milliseconds.
+Check if exists: For 10000 vertices found: 138 milliseconds.
+Check if exists: For 10500 vertices found: 144 milliseconds.
+Check if exists: For 11000 vertices found: 165 milliseconds.
+Check if exists: For 11500 vertices found: 173 milliseconds.
+Check if exists: For 12000 vertices found: 189 milliseconds.
+Check if exists: For 12500 vertices found: 202 milliseconds.
+Check if exists: For 13000 vertices found: 259 milliseconds.
+Check if exists: For 13500 vertices found: 273 milliseconds.
+Check if exists: For 14000 vertices found: 261 milliseconds.
+Check if exists: For 14500 vertices found: 276 milliseconds.
+Check if exists: For 15000 vertices found: 297 milliseconds.
+Find the longest cycle: For 500 vertices found: 2 milliseconds.
+Find the longest cycle: For 1000 vertices found: 5 milliseconds.
+Find the longest cycle: For 1500 vertices found: 13 milliseconds.
+Find the longest cycle: For 2000 vertices found: 25 milliseconds.
+Find the longest cycle: For 2500 vertices found: 39 milliseconds.
+Find the longest cycle: For 3000 vertices found: 49 milliseconds.
+Find the longest cycle: For 3500 vertices found: 76 milliseconds.
+Find the longest cycle: For 4000 vertices found: 86 milliseconds.
+Find the longest cycle: For 4500 vertices found: 109 milliseconds.
+Find the longest cycle: For 5000 vertices found: 134 milliseconds.
+Find the longest cycle: For 5500 vertices found: 188 milliseconds.
+Find the longest cycle: For 6000 vertices found: 190 milliseconds.
+Find the longest cycle: For 6500 vertices found: 239 milliseconds.
+Find the longest cycle: For 7000 vertices found: 259 milliseconds.
+Find the longest cycle: For 7500 vertices found: 315 milliseconds.
+Find the longest cycle: For 8000 vertices found: 357 milliseconds.
+Find the longest cycle: For 8500 vertices found: 401 milliseconds.
+Find the longest cycle: For 9000 vertices found: 455 milliseconds.
+Find the longest cycle: For 9500 vertices found: 530 milliseconds.
+Find the longest cycle: For 10000 vertices found: 540 milliseconds.
+Find the longest cycle: For 10500 vertices found: 617 milliseconds.
+Find the longest cycle: For 11000 vertices found: 659 milliseconds.
+Find the longest cycle: For 11500 vertices found: 714 milliseconds.
+Find the longest cycle: For 12000 vertices found: 770 milliseconds.
+Find the longest cycle: For 12500 vertices found: 946 milliseconds.
+Find the longest cycle: For 13000 vertices found: 915 milliseconds.
+Find the longest cycle: For 13500 vertices found: 981 milliseconds.
+Find the longest cycle: For 14000 vertices found: 1095 milliseconds.
+Find the longest cycle: For 14500 vertices found: 1271 milliseconds.
+Find the longest cycle: For 15000 vertices found: 1230 milliseconds.

@@ -115,27 +115,37 @@ void mainUserMenu(){
 }
 
 void testing(){
-     int s = 50, e = 1000, g = 50;
-    // std::cout<<"Random graph 50 percent saturation: \n";
-    // GraphTest test1 = GraphTest(1,1,s,e,g);
-    // GraphTest test2 = GraphTest(2,1,s,e,g);
-    // GraphTest test3 = GraphTest(3,1,s,e,g);
-    // std::cout<<"Random graph 30 percent saturation: \n";
-    // GraphTest test4 = GraphTest(1,2,s,e,g);
-    // GraphTest test5 = GraphTest(2,2,s,e,g);
-    // GraphTest test6 = GraphTest(3,2,s,e,g);
-    std::cout<<"Random graph 80 percent saturation: \n";
-    GraphTest test7 = GraphTest(1,3,s,e,g);
-    GraphTest test8 = GraphTest(2,3,s,e,g);
-    GraphTest test0 = GraphTest(3,3,s,e,g);
-    // std::cout<<"Random acyclic graph 50 percent saturation: \n";
-    // GraphTest test9 = GraphTest(1,4,s,e,g);
-    // GraphTest test10 = GraphTest(2,4,s,e,g);
-    // GraphTest test11 = GraphTest(3,4,s,e,g);
-    // std::cout<<"Random graph with one cycle containing all of the vertices: \n";
-    // GraphTest test12 = GraphTest(1,5,s,e,g);
-    // GraphTest test13 = GraphTest(2,5,s,e,g);
-    // GraphTest test14 = GraphTest(3,5,s,e,g);
+     int s = 500, e = 15000, g = 500;
+    std::cout<<"Random graph 50 percent saturation: \n";
+    GraphTest test14 = GraphTest(EXIST,RANDOM_HALF,s,e,g);
+    GraphTest test12 = GraphTest(LONGEST,RANDOM_HALF,s,e,g);
+    GraphTest test13 = GraphTest(EXACT,RANDOM_HALF,s,e,g);
+    
+
+    std::cout<<"Random graph 30 percent saturation: \n";
+    GraphTest test3 = GraphTest(EXIST,RANDOM_ONE_THIRD,s,e,g);
+    GraphTest test1 = GraphTest(LONGEST,RANDOM_ONE_THIRD,s,e,g);
+    GraphTest test2 = GraphTest(EXACT,RANDOM_ONE_THIRD,s,e,g);
+    
+
+    std::cout<<"Random graph 70 percent saturation: \n";
+    GraphTest test6 = GraphTest(EXIST,RANDOM_TWO_THIRDS,s,e,g);
+    GraphTest test4 = GraphTest(LONGEST,RANDOM_TWO_THIRDS,s,e,g);
+    GraphTest test5 = GraphTest(EXACT,RANDOM_TWO_THIRDS,s,e,g);
+    
+
+    std::cout<<"Random acyclic graph 50 percent saturation: \n";
+    GraphTest test0 = GraphTest(EXIST,ACYCLIC,s,e,g);
+    GraphTest test7 = GraphTest(LONGEST,ACYCLIC,s,e,g);
+    GraphTest test8 = GraphTest(EXACT,ACYCLIC,s,e,g);
+    
+   
+    std::cout<<"Random graph with one cycle containing all of the vertices: \n";
+    GraphTest test11 = GraphTest(EXIST,RING,s,e,g);
+    GraphTest test9 = GraphTest(LONGEST,RING,s,e,g);
+    //GraphTest test10 = GraphTest(2,4,s,e,g); There's only one cycle
+
+    return;   
 }
 
 int main(){

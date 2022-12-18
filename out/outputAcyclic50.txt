@@ -1,0 +1,90 @@
+Check if exists: For 500 vertices failure: 3 milliseconds.
+Check if exists: For 1000 vertices failure: 11 milliseconds.
+Check if exists: For 1500 vertices failure: 25 milliseconds.
+Check if exists: For 2000 vertices failure: 45 milliseconds.
+Check if exists: For 2500 vertices failure: 70 milliseconds.
+Check if exists: For 3000 vertices failure: 100 milliseconds.
+Check if exists: For 3500 vertices failure: 144 milliseconds.
+Check if exists: For 4000 vertices failure: 176 milliseconds.
+Check if exists: For 4500 vertices failure: 223 milliseconds.
+Check if exists: For 5000 vertices failure: 282 milliseconds.
+Check if exists: For 5500 vertices failure: 342 milliseconds.
+Check if exists: For 6000 vertices failure: 399 milliseconds.
+Check if exists: For 6500 vertices failure: 477 milliseconds.
+Check if exists: For 7000 vertices failure: 540 milliseconds.
+Check if exists: For 7500 vertices failure: 641 milliseconds.
+Check if exists: For 8000 vertices failure: 710 milliseconds.
+Check if exists: For 8500 vertices failure: 815 milliseconds.
+Check if exists: For 9000 vertices failure: 897 milliseconds.
+Check if exists: For 9500 vertices failure: 1041 milliseconds.
+Check if exists: For 10000 vertices failure: 1120 milliseconds.
+Check if exists: For 10500 vertices failure: 1227 milliseconds.
+Check if exists: For 11000 vertices failure: 1372 milliseconds.
+Check if exists: For 11500 vertices failure: 1493 milliseconds.
+Check if exists: For 12000 vertices failure: 1622 milliseconds.
+Check if exists: For 12500 vertices failure: 1748 milliseconds.
+Check if exists: For 13000 vertices failure: 1913 milliseconds.
+Check if exists: For 13500 vertices failure: 2017 milliseconds.
+Check if exists: For 14000 vertices failure: 2209 milliseconds.
+Check if exists: For 14500 vertices failure: 2328 milliseconds.
+Check if exists: For 15000 vertices failure: 2550 milliseconds.
+Find the longest cycle: For 500 vertices failure: 3 milliseconds.
+Find the longest cycle: For 1000 vertices failure: 12 milliseconds.
+Find the longest cycle: For 1500 vertices failure: 25 milliseconds.
+Find the longest cycle: For 2000 vertices failure: 44 milliseconds.
+Find the longest cycle: For 2500 vertices failure: 69 milliseconds.
+Find the longest cycle: For 3000 vertices failure: 100 milliseconds.
+Find the longest cycle: For 3500 vertices failure: 146 milliseconds.
+Find the longest cycle: For 4000 vertices failure: 185 milliseconds.
+Find the longest cycle: For 4500 vertices failure: 232 milliseconds.
+Find the longest cycle: For 5000 vertices failure: 299 milliseconds.
+Find the longest cycle: For 5500 vertices failure: 341 milliseconds.
+Find the longest cycle: For 6000 vertices failure: 396 milliseconds.
+Find the longest cycle: For 6500 vertices failure: 464 milliseconds.
+Find the longest cycle: For 7000 vertices failure: 538 milliseconds.
+Find the longest cycle: For 7500 vertices failure: 631 milliseconds.
+Find the longest cycle: For 8000 vertices failure: 699 milliseconds.
+Find the longest cycle: For 8500 vertices failure: 801 milliseconds.
+Find the longest cycle: For 9000 vertices failure: 888 milliseconds.
+Find the longest cycle: For 9500 vertices failure: 1010 milliseconds.
+Find the longest cycle: For 10000 vertices failure: 1099 milliseconds.
+Find the longest cycle: For 10500 vertices failure: 1226 milliseconds.
+Find the longest cycle: For 11000 vertices failure: 1351 milliseconds.
+Find the longest cycle: For 11500 vertices failure: 1450 milliseconds.
+Find the longest cycle: For 12000 vertices failure: 1572 milliseconds.
+Find the longest cycle: For 12500 vertices failure: 1708 milliseconds.
+Find the longest cycle: For 13000 vertices failure: 1851 milliseconds.
+Find the longest cycle: For 13500 vertices failure: 2013 milliseconds.
+Find the longest cycle: For 14000 vertices failure: 2177 milliseconds.
+Find the longest cycle: For 14500 vertices failure: 2283 milliseconds.
+Find the longest cycle: For 15000 vertices failure: 2490 milliseconds.
+Exact cycle: For 500 vertices failure: 3 milliseconds.
+Exact cycle: For 1000 vertices failure: 12 milliseconds.
+Exact cycle: For 1500 vertices failure: 27 milliseconds.
+Exact cycle: For 2000 vertices failure: 45 milliseconds.
+Exact cycle: For 2500 vertices failure: 70 milliseconds.
+Exact cycle: For 3000 vertices failure: 102 milliseconds.
+Exact cycle: For 3500 vertices failure: 138 milliseconds.
+Exact cycle: For 4000 vertices failure: 188 milliseconds.
+Exact cycle: For 4500 vertices failure: 230 milliseconds.
+Exact cycle: For 5000 vertices failure: 284 milliseconds.
+Exact cycle: For 5500 vertices failure: 358 milliseconds.
+Exact cycle: For 6000 vertices failure: 405 milliseconds.
+Exact cycle: For 6500 vertices failure: 478 milliseconds.
+Exact cycle: For 7000 vertices failure: 556 milliseconds.
+Exact cycle: For 7500 vertices failure: 639 milliseconds.
+Exact cycle: For 8000 vertices failure: 727 milliseconds.
+Exact cycle: For 8500 vertices failure: 822 milliseconds.
+Exact cycle: For 9000 vertices failure: 910 milliseconds.
+Exact cycle: For 9500 vertices failure: 1025 milliseconds.
+Exact cycle: For 10000 vertices failure: 1130 milliseconds.
+Exact cycle: For 10500 vertices failure: 1245 milliseconds.
+Exact cycle: For 11000 vertices failure: 1356 milliseconds.
+Exact cycle: For 11500 vertices failure: 1503 milliseconds.
+Exact cycle: For 12000 vertices failure: 1636 milliseconds.
+Exact cycle: For 12500 vertices failure: 1766 milliseconds.
+Exact cycle: For 13000 vertices failure: 1921 milliseconds.
+Exact cycle: For 13500 vertices failure: 2065 milliseconds.
+Exact cycle: For 14000 vertices failure: 2194 milliseconds.
+Exact cycle: For 14500 vertices failure: 2348 milliseconds.
+Exact cycle: For 15000 vertices failure: 2544 milliseconds.
